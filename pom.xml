@@ -55,6 +55,7 @@
     <module>modules/macros</module>
     <module>modules/map-utils</module>
     <module>modules/math</module>
+    <module>modules/match</module>
     <module>modules/miglayout</module>
     <module>modules/mmap</module>
     <module>modules/mock</module>

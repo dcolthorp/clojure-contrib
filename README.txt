@@ -89,6 +89,7 @@ clojure-contrib from the "master" branch on Github.
 The following people are committers to the official clojure-contrib
 repositiory:
 
+Drew Colthorp
 Tom Faulhaber
 Stephen Gilardi
 Christophe Grand
